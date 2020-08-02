@@ -16,6 +16,6 @@ Project is created with:
 
 ## Setup
 Compile and run with:
-'''
+```
 $ python sorter.py
-'''
+```
